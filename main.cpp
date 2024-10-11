@@ -8,6 +8,5 @@ int main (int argc, char *argv[]) {
     std::cout << "Tomorrow is " << tomorrow.month() << "/" << tomorrow.day() << std::endl;
     std::cout << "Truc qui sert a rien" << std::endl;
     std::cout << "Truc qui sert a rien - 2eme fois" << std::endl;
-
     return 0;
 }
